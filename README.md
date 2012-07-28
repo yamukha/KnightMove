@@ -19,7 +19,7 @@ F G H I J
 
 K L M N O
 
-' 1 2 3 '
+'. 1 2 3. '
   
 
 Solution notes:
