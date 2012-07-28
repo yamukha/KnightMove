@@ -14,9 +14,13 @@ A knight move is made in one of the following ways:
 Keypad:
 
 A B C D E 
+
 F G H I J
+
 K L M N O
+
   1 2 3
+  
 
 Solution notes:
 1) do table of possible transitions:
